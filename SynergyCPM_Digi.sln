@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices.DAL", "SynergyWebServices.DAL\SynergyWebServices.DAL.csproj", "{9563CD39-0F11-4A3E-8957-FFFA1DFBF7D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices.Views", "SynergyWebServices.Views\SynergyWebServices.Views.csproj", "{117162F7-515E-468F-A57D-A4F5B720A461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices", "SynergyWebServices\SynergyWebServices.csproj", "{1CD0BF33-36C5-43BB-B788-9E0EC39F965F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices.IAL", "SynergyWebServices.IAL\SynergyWebServices.IAL.csproj", "{9368D98D-DBF7-4CF1-A585-9DFC27797F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices.DEL", "SynergyWebServices.DEL\SynergyWebServices.DEL.csproj", "{30EF152F-D7F1-4DC6-A38E-CE51DF342C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynergyWebServices.BLL", "SynergyWebServices.BLL\SynergyWebServices.BLL.csproj", "{0C066082-B0A2-458A-8BB8-C475194F8C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9563CD39-0F11-4A3E-8957-FFFA1DFBF7D8}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{9563CD39-0F11-4A3E-8957-FFFA1DFBF7D8}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{9563CD39-0F11-4A3E-8957-FFFA1DFBF7D8}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{9563CD39-0F11-4A3E-8957-FFFA1DFBF7D8}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{117162F7-515E-468F-A57D-A4F5B720A461}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{117162F7-515E-468F-A57D-A4F5B720A461}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{117162F7-515E-468F-A57D-A4F5B720A461}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{117162F7-515E-468F-A57D-A4F5B720A461}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{1CD0BF33-36C5-43BB-B788-9E0EC39F965F}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{1CD0BF33-36C5-43BB-B788-9E0EC39F965F}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{1CD0BF33-36C5-43BB-B788-9E0EC39F965F}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{1CD0BF33-36C5-43BB-B788-9E0EC39F965F}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{9368D98D-DBF7-4CF1-A585-9DFC27797F76}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{9368D98D-DBF7-4CF1-A585-9DFC27797F76}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{9368D98D-DBF7-4CF1-A585-9DFC27797F76}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{9368D98D-DBF7-4CF1-A585-9DFC27797F76}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{30EF152F-D7F1-4DC6-A38E-CE51DF342C2C}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{30EF152F-D7F1-4DC6-A38E-CE51DF342C2C}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{30EF152F-D7F1-4DC6-A38E-CE51DF342C2C}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{30EF152F-D7F1-4DC6-A38E-CE51DF342C2C}.Release|AnyCPU.Build.0 = Release|AnyCPU
+		{0C066082-B0A2-458A-8BB8-C475194F8C27}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{0C066082-B0A2-458A-8BB8-C475194F8C27}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{0C066082-B0A2-458A-8BB8-C475194F8C27}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{0C066082-B0A2-458A-8BB8-C475194F8C27}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

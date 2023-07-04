@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="JobNotYetCompleted"><value>This Job Not Yet Completed</value></data>
+  <data name="DeletedSucessfully"><value>Item Deleted Sucessfully</value></data>
+  <data name="PaymentSucessful"><value>Payment sucessfully done for this order</value></data>
+  <data name="ExceptionMessage"><value>Something Went Wrong.Please Contact System Admin</value></data>
+  <data name="NoJobsAssignedSuperAdmin"><value>No Jobs Assigned For Super Admin</value></data>
+  <data name="PasswordResetSuccessful"><value>Password Reset Successful</value></data>
+  <data name="PaymentNotSucessful"><value>Payment not for this order</value></data>
+  <data name="BarCodeAlreadyExists"><value>This Bar Code Already Exists In Asset Master</value></data>
+  <data name="ApprovedSucessfully"><value>Approved Sucessfully</value></data>
+  <data name="MovedSuccessfully"><value>Moved Successfully</value></data>
+  <data name="ThisIsLastQuestion"><value>This Is Last Question</value></data>
+  <data name="SubmitedSucessfully"><value>Test Submitted Sucessfully</value></data>
+  <data name="AdLimtReached"><value>Already Two Exists Please Delete and New Ads</value></data>
+  <data name="CheckListCreatedSuccessfully"><value>CheckList Created Successfully</value></data>
+  <data name="FileUploaderSuccess"><value>File Uploaded Successfully</value></data>
+  <data name="NotAuthorizedUser"><value>Not An Authorized User</value></data>
+  <data name="LoginUnSuccessful"><value>Unable To Login Please Try Again Later</value></data>
+  <data name="FileUploaderFailure"><value>There is a problem in uploading file please try again later</value></data>
+  <data name="NoItemsFound"><value>No Items Found</value></data>
+  <data name="UserDoesNotExists"><value>User Does Not Exists</value></data>
+  <data name="LinkTimedOut"><value>Link Expired Please Try Again Later</value></data>
+  <data name="LinkError"><value>Link Error</value></data>
+  <data name="BarcodeNotAssignedForThisActivity"><value>Barcode Not Assigned For This Activity</value></data>
+  <data name="CustomerDataAlreadyExists"><value>Customer Data Already Exists</value></data>
+  <data name="MailSentSuccessful"><value>Mail Sent Successfully</value></data>
+  <data name="TotalQuestionAlreadyFilled"><value>Total Question Already excided from given total question in Test Master</value></data>
+  <data name="CouponAlreadyRedeemed"><value>This Coupon Is Already Redeemed, Please contact us</value></data>
+  <data name="AddedSucessfully"><value>Item Sucessfully Added</value></data>
+  <data name="JobNotCompletelyCreated"><value>This Job Is Not Completely Created Please Check</value></data>
+  <data name="AccountActivated"><value>Account Activated</value></data>
+  <data name="NoSuggestionsFound"><value>No Suggestions Found</value></data>
+  <data name="NoJobsAssignedAdmin"><value>No Jobs Assigned For Admin</value></data>
+  <data name="UpdatedSucessfully"><value>Item Updated Sucessfully</value></data>
+  <data name="BarcodeNotFoundInAssetLibray"><value>Barcode Not Found In Asset Libray</value></data>
+  <data name="RejectedSucessfully"><value>Rejected Sucessfully</value></data>
+  <data name="JobClosedSuccessfully"><value>Job Closed Successfully</value></data>
+  <data name="FailureMessage"><value>Some Error Has Occurred</value></data>
+  <data name="UserAlreadyExists"><value>This UserName Is Already Taken</value></data>
+  </root>
